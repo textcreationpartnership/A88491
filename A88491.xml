@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Londoners last vvarning.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88491</idno><idno type="EEBO-CITATION">99862954</idno>
+  <idno type="VID">168671</idno>
+  <idno type="EEBO-PROQUEST">2248547417</idno>
+  
+            <idno type="STC">Wing L2913</idno>
+            <idno type="STC">Thomason E993_24</idno>
+            <idno type="STC">ESTC R202773</idno>
+            <idno type="PROQUEST">99862954</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862954e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88491)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168671)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E993[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Londoners last vvarning.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "August 15. 1659".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:168671:1"/>
+            <head>THE LONDONERS LAST WARNING.</head>
+            <p>I Am sorry you have given me so sad an oppor<g ref="char:EOLhyphen"/>tunity to employ my Hand, while your own have so long been, and are still struck with a dead Palsie; that as heretofore you did not lift them up to save your Head, so now you suffer the whole Body to be mortally wounded, while you (like dying Persons in the extremity of a Feaver) be<g ref="char:EOLhyphen"/>lieve you are well, because you want a sense of pain, that freedom from an apprehension of your sad Estate, being but a surer Symptom of your approaching death. It is therefore necessary to convince you you are sick, before you can be perswaded to admit any thing in or<g ref="char:EOLhyphen"/>der to your cure. Should I but remember the wounds of your Head, which you received by your own neglect, the horror of them would make you despair, and in a
+<pb n="2" facs="tcp:168671:2"/>black phrensy become you own Executioners: But since Time hath closed them, and you are willing to forget them, I shall pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ss you no farther with their sad remembrance, only favourably tell you this, you have had a strange giddiness ever since; your Body, whose blood, life and spirits, are Laws, Liberties and Freedoms, is in every part so weakned, that it hath scarce strength for recovery, and as little inclination to it; and you are fallen into the hands of such Mounte<g ref="char:EOLhyphen"/>banks, who rather make experiments how much your nature can suffer, than any way endeavour the resto<g ref="char:EOLhyphen"/>ring of your health again.</p>
+            <p>You may remember, and with sadness of Heart I do, how after your mis-led zeal had arm'd and sent out thousands of your servants against him, who (you by sad experience know) dy'd an Assertor of Religion and Liberty, when they brought home victory they brought you Slavery too, and that so perpetual as hath continued ever since, and unlesse you prevent it, will have no end but with the dissolution of the whole World. The Army at that time having put out of em<g ref="char:EOLhyphen"/>ployment all that they suspected would fight for or fa<g ref="char:EOLhyphen"/>vour you, grasp'd that power to which we have been all Slaves ever since. The Parliament which you so much doated on they dissolv'd, or which is worse, kept only such there, as would act whatsoever they commanded. One of their bloody Generals, whom Ambition made covetous, and power made capable of Tyranny, they set up; what you felt under him I need not repeat, his miscarriages being too eminent and fatal ever to fall from your memory: some of your number endeavour<g ref="char:EOLhyphen"/>ing to put a stop to his villanies, he laid in the grave, &amp; I wish their blood be never required at your hands for permitting it. His Son succeeding him to that Govern<g ref="char:EOLhyphen"/>ment
+<pb n="3" facs="tcp:168671:2"/>which his Father dying intituled him to, and your selves among the rest congratulated &amp; own'd him in, no sooner did he but endeavour to give you something that look'd like a free Parliament, but, as if that had been a crime never to be atton'd for, in four and twenty hours, he that was sitting on the Throne, and had three Kingdoms bowing to him, fell so low, as he is now become the Object of pity and scorn too; and I dare not but believe God was just in throwing him down headlong from that Crown to which he had no Title but the Sword that gave it: Yet all these Revolu<g ref="char:EOLhyphen"/>tions had some intervals of quiet and security too; But now we are fallen upon such sad distractions, and up<g ref="char:EOLhyphen"/>on such infallible expectations of inevitable ruine, as if you let slip a few days, nothing but a miracle can re<g ref="char:EOLhyphen"/>deem us. Among other crimes I shall one day account for, I wil not suffer this to be added to the number of them, that I fore-saw your ruine and corcealed it; though I expect <hi>Cassandras</hi> fate in it, to tell you sad truths, and not to be believ'd, or like Major <hi>Harlowes</hi> truth, to be voted false, scandalous and seditious, be<g ref="char:EOLhyphen"/>cause unseasonable and true.</p>
+            <p>The dispute is not now whether a Kings power shall be moderated; whether a Parliament shall be above a King, or equal to him; or whether it be lawful for a King to impeach those Members of Treason he knows are Traitors; whether the Clergy shall wear no other Ornaments than what the State puts on, nor preach other Doctrine than what that dictates; this hath al<g ref="char:EOLhyphen"/>ready been the subject of an unhappy ten years War; But it is now whether we shall have Religion, Laws or Liberties; whether we shall have Propriety or Life; for even these will be held too great a favour when Vi<g ref="char:EOLhyphen"/>ctory hath made them cruel and imperious, who are now gone out to sacrifice those, who have no other
+<pb n="4" facs="tcp:168671:3"/>Crime about them, but that they would be free, and make you so; The General himself saying, he would leave no Gentleman in <hi>Cheshire,</hi> and no Minister in the Nation, to the confirmation of which the Anabaptists and fifth-Monarchy-men have raised a power against you, and are allow'd by this blessed Parliament to be in Arms against you, while you shall have none to pro<g ref="char:EOLhyphen"/>tect your s<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es; they blast that honourable design with the name of a Papistical plot, when they them<g ref="char:EOLhyphen"/>selves within these two dayes were ready to vote them a publique toleration of their Religion, while you shall have none, and if they had not been perswaded they were too great Friends to the House of <hi>Austria,</hi> the Peti<g ref="char:EOLhyphen"/>tion had been granted. How far the Laws are viola<g ref="char:EOLhyphen"/>ted your Contribution and Militia can inform you; things never heard of in former Ages to that excesse and rigour as now they are; Religion which you so much fought for, is now in such a desperate and lan<g ref="char:EOLhyphen"/>guishing a condition, that it will ere long be accounted a Treason to professe any, and as unlawful a thing to exercise it; for an eminent Anabaptist, or rather Jesui<g ref="char:EOLhyphen"/>tical Priest, said, that he hoped, nay he believed, that with in fourteen dayes there would not be left a Church door open in the Nation. Liberty which you were born to, and which no Englishman, unlesse he will tamely give it way, can destroy, is so far from being now a part of your Charters, that it is allowed to none but such as are at this time contriving your eternal destruction. Sectaries govern, Schisms tear you, H<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>resies are ar<g ref="char:EOLhyphen"/>med against you; for within this week t<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ee thousand Quakers, (a people who seem so patient, as if they had been born only for sufferings) have received Arms from the Tower your Magazine, and buy them up dayly,
+<pb n="5" facs="tcp:168671:3"/>and you will find, I fear too late, they can give as well as receive blows; let Father <hi>Talhot</hi> and the rest of <hi>Romes</hi> Agents inform you what they are. As for pro<g ref="char:EOLhyphen"/>priety, hope for none, there being a faction of People in this Nation, who call themselves fifth-Monarchy-Men, and have the assistance, protection and encou<g ref="char:EOLhyphen"/>ragement of a powerful Master of yours, who do alrea<g ref="char:EOLhyphen"/>dy believe, and conclude they have a right to, and will sodainly take possession of your Lives and Fortunes al<g ref="char:EOLhyphen"/>so. To whom will you fly for refuge? to your Parlia<g ref="char:EOLhyphen"/>ment? even there sit your Enemies and their Friends, nor must you expect common Justice, when Parties are your Judges. But alas! why do I call them a Parlia<g ref="char:EOLhyphen"/>ment, or you believe them so? I can only say, that in this last revolution, you were so unhappy, as you searched the Prisons to find you Law-givers; whom if you take in pieces, you will find so rotten, and false, as you cannot have so much malice as to wish your Ene<g ref="char:EOLhyphen"/>mies such, unlesse you had so little charity as to desire their eternal damnation. Besides, how small a num<g ref="char:EOLhyphen"/>ber are they in respect of a free full Parliament? from which some of your Members being illegally and with<g ref="char:EOLhyphen"/>out cause shown shut out, and knowing how much the good and safety of the whole Nation consisteth in a free Parliament, which is all they desire, and being indeed to pay their God and Country that Duty, that Service, both expect from them, have taken the field to preserve those Liberties of which you deserve to be no Sharers, unlesse you assist them with your Lives and Fortunes. You see already what severity is gone out against them, and even while you intended to plead with the Parliament in their behalf, you were betrayed by that false villain your Maior, whom I
+<pb n="6" facs="tcp:168671:4"/>wonder Heaven and you suffer to live, and made to as<g ref="char:EOLhyphen"/>sist at the proclaiming those men Traitors, who are truly yours and the Kingdoms Protectors; and if they fail for want of your aid, God will require their blood at your hands while they fall the whole Nations Mar<g ref="char:EOLhyphen"/>tyrs; and even that person who is gone out with a de<g ref="char:EOLhyphen"/>sire as well as a Commission to destroy all that is sacred among us, will doubtlesse, if he return, set up for him<g ref="char:EOLhyphen"/>self, and erect over you such a Tyranny, as never yet had a comparison, and will know no hopes of redress. Can you consider all this &amp; suffer your selves tamely to be led, or cowardly to be frighted into a perpetual Sla<g ref="char:EOLhyphen"/>very to the worst of your fellow Subjects? How will Posterity have cause to curse your memory, and the dayes you liv'd in, when you leave that under such a yoak of Tyranny, and your Children such Slaves, as will make their lives but a continued Martyrdome? It were lesse cruelty that your hands should with one so<g ref="char:EOLhyphen"/>dain fatal blow take away their lives and miseries to<g ref="char:EOLhyphen"/>gether, than that you should leave them in the hands of others, who are exquisite in cruelty, and will take delight in spinning out their afflictions. Be you as<g ref="char:EOLhyphen"/>sur'd, if this party do prevail (which yet you may hin<g ref="char:EOLhyphen"/>der) you will see your selves and the whole Nation in the most fatal everlasting Tyranny, that it is possible for an enraged barbarous enemy to erect; And where<g ref="char:EOLhyphen"/>as you are sooth'd and fool'd with the opinion and ex<g ref="char:EOLhyphen"/>pectation of a free State, you are so far from ever being so, that you will find under that specious name is hid &amp; couch'd a boundlesse liberty to enslave and ruine you, granted to them, whose Sword and Power can make themselves your Masters. Destruction is at the door, if it once enter and take possession, as it now makes
+<pb n="7" facs="tcp:168671:4"/>fair attempts so to do, you and the whole Nation are the most miserable despicable people God allows the Sun to shine on: Many of you are born of good families, and have their blood I hope running yet in your Veins, give us not cause to suspect that when you gave Bonds to be servants you never intended to be free; you have a glorious an honourable opportunity offer'd to crush oppression that will grind your Souls; you have a power so great as renders you formidable to those who would enslave you; let not want of re<g ref="char:EOLhyphen"/>solution be your crime, and if you want it, look to those fair patterns in the field already, let them encourage you to do something like Men and Chri<g ref="char:EOLhyphen"/>stians; you cannot be ignorant how inconsiderable a handful of Men (if you were but faithful to your selves and resolute) oppresse you, and how easy at this time it is for you to redeem, what will so<g ref="char:EOLhyphen"/>dainly and assuredly be engaged almost to despair, your Religion, your Laws, your Liberties, your Freedomes, your Country from slavery, your Estates from oppression, injustice and rapine, and your Persons and Posterity from eternal ruine; a few dayes will snatch from you this happy opportunity, and you will then grieve and condemn too late your want of courage, when Victory abroad hath made you incapable of action, and strengthned it self to your utter undoing. For Gods cause, for Religion's sake that lies a bleeding, with Laws, Liberties and Freedom, dare but to be honest, and the same God that puts good intentions into your hearts, give you hands and courage to put them in execution. How must it grieve you if you should live to see some of those whom you might have redeem'd, and who stand or fall to re<g ref="char:EOLhyphen"/>deem
+<pb n="8" facs="tcp:168671:5"/>you, tamely brought to a Scaffold, a spe<g ref="char:EOLhyphen"/>ctacle to Men and Angels, there to suffer and up<g ref="char:EOLhyphen"/>braid your timorous falseness? your selves (if you have not lost all sense of humanity and shame) confessing, that it was your tameness and want of courage that made them fall so unhappy a sacrifice. What is worth your blood, if your Country be not? and how can you deny to drein every Vein for her, when her extremity and misery requires it? Suppose you should fail in your honoutable attempts, and fall, you drop into the Bed of Ho<g ref="char:EOLhyphen"/>nour, and instead of an inglorious slavish life here, which (if yours and the Kingdoms enemies pre<g ref="char:EOLhyphen"/>vail) you are sure of, you shall have as a reward of your Sufferings and Miseries, an everlasting fame here, and an eternal Mansion in Heaven here<g ref="char:EOLhyphen"/>after.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
